@@ -52,7 +52,6 @@ Contains:
 * Learning concepts
 * Practice challenges
 * Mini projects
-* Notes and implementations
 
 ---
 
