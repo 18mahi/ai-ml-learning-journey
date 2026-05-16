@@ -22,10 +22,10 @@ The focus is on building strong programming fundamentals, problem-solving abilit
 ```txt
 python/
 │
-├── learning/         # Core Python concepts and practice
+├── readme/         # Core Python concepts and practice
 ├── challenges/       # Coding challenges and problem solving
 ├── mini-projects/    # Small practical Python projects
-└── assets/           # Images, outputs, screenshots, references
+
 ```
 
 ---
