@@ -18,7 +18,7 @@ ai-ml-learning-journey/
 │
 ├── python/
 │   │
-│   ├── learning/
+│   ├── Readme/
 │   ├── challenges/
 │   ├── mini-projects/
 │
