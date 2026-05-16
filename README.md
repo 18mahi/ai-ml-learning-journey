@@ -21,8 +21,10 @@ ai-ml-learning-journey/
 │   ├── Readme/
 │   ├── challenges/
 │   ├── mini-projects/
-│
-└── assets/
+|__assets/
+|
+|__.gitignore
+└── LICENSE
 ```
 
 ### Python
