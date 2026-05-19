@@ -27,7 +27,7 @@ Each contact should store:
 - Phone Number
 - Email
 - City
-
+## Status: - pending 
 ## Expected Output
 The program should allow the user to manage contacts from a menu-based system.
 
